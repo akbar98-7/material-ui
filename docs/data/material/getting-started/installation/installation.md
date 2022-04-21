@@ -1,6 +1,6 @@
 # Installation
 
-<p class="description">Install MUI, the world's most popular React UI framework.</p>
+<p class="description">Install MUU, the world's most popular React UI framework.</p>
 
 MUI is available as an [npm package](https://www.npmjs.com/package/@mui/material).
 
